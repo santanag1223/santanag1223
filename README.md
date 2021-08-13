@@ -11,7 +11,7 @@
 - 🐍 Python
 - 🖥 C++
 
-### Contact Me ⬇
+### Contact Me 📲
 - 📧 [Email](mailto:santanag1223@gmail.com)
 - 🎮 [Discord](https://discordapp.com/users/Santana#9796/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/santana-gonzales-990621191/)
