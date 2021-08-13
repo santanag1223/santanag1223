@@ -13,5 +13,3 @@
 ### Contact Me ⬇
 - 📧 [My Email](mailto:santanag1223@gmail.com)
 - 🎮 [My Discord](https://discordapp.com/users/Santana#9796/)
-
-(mailto:santanag1223@gmail.com)
