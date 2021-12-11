@@ -10,7 +10,7 @@
 
 ### Programming Languages 👨‍💻
 - 🐍 Python
-- 🖥 C++
+- 🖥 C, C++, Assembly
 
 ### Contact Me 📲
 - 📧 [Email](mailto:santanag1223@gmail.com)
