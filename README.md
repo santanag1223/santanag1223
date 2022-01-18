@@ -3,7 +3,7 @@
 ### About Me 😀
 - Currently an Computing Major at Texas A&M University 📖👍
 - Math Minor 🧮
-- I am an Undergraudate Researcher in Data Science and Computer Science Education  🔎
+- I am an Undergraudate Researcher in Computer Science 🔎
 - Most of my work goes onto an Enterprise GitHub 🏢 but I try to share what I can here as well
 - And Finally, I love coding ⌨
 - Also, heres my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) 📃 for anyone interested
