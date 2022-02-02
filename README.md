@@ -1,7 +1,7 @@
 # Hi, I'm Santana Gonzales! 👋
 
 ### About Me 😀
-- Currently an Computing Major at Texas A&M University 📖👍
+- Computing Major at Texas A&M University 📖 👍
 - Math Minor 🧮
 - I am an Undergraudate Researcher in Computer Science 🔎
 - Most of my work goes onto an Enterprise GitHub 🏢 but I try to share what I can here as well
