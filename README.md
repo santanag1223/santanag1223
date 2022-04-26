@@ -1,15 +1,15 @@
 # Hi, I'm Santana Gonzales! 👋
 
 ### About Me 😀
-- Computing Major at Texas A&M University 📖 👍
+- Computing Major at Texas A&M University 👍
 - Math Minor 🧮
 - I am an Undergraudate Researcher in Computer Science 🔎
-- Also, heres my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) 📃 for anyone interested
+- Also, heres my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) for anyone interested
 
 ### Programming Languages 👨‍💻
 - 🖥 C, C++, Assembly
 - 🐍 Python
-- ☕️ Java
+- :coffee: Java
 - Haskell
 
 ### Contact Me 📲
