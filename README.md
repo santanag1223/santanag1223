@@ -7,8 +7,10 @@
 - Also, heres my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) 📃 for anyone interested
 
 ### Programming Languages 👨‍💻
-- 🐍 Python
 - 🖥 C, C++, Assembly
+- 🐍 Python
+- ☕️ Java
+- Haskell
 
 ### Contact Me 📲
 - 📧 [Email](mailto:santanag1223@gmail.com)
