@@ -4,7 +4,7 @@
 - Computing Major at Texas A&M University 👍
 - Math Minor 🧮
 - I am an Undergraudate Researcher in Computer Science 🔎
-- Also, heres my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) for anyone interested
+- Also, here is my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) for anyone interested
 
 ### Programming Languages 👨‍💻
 - 🖥 C, C++, Assembly
