@@ -7,7 +7,7 @@
 - Also, here is my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) for anyone interested
 
 ### Programming Languages 👨‍💻
-- 🖥 C, C++, Assembly
+- 🖥 C, C++, C# Assembly
 - 🐍 Python
 - :coffee: Java
 - Haskell
