@@ -1,6 +1,6 @@
 # Hi, I'm Santana Gonzales! 👋
 
-### About Me 😀
+### About Me
 - Computing Major at Texas A&M University 👍
 - Math Minor 🧮
 - I am an Undergraudate Researcher in Computer Science 🔎
