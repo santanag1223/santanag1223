@@ -1,14 +1,13 @@
 # Hi, I'm Santana Gonzales! 👋
 
 ## About Me
-- Computing and Math from Texas A&M University 👍
-- Here is my [Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf)
+- TAMU Computing - Class of 2023 👍
+- [My Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf)
 
 ## Programming Languages 👨‍💻
 - 🖥 C, C++, C#, Assembly
+- :coffee: Java, Javascript, Typescript
 - 🐍 Python
-- :coffee: Java
-- Haskell
 
 ## Contact Me 📲
 - 📧 [Email](mailto:santanag1223@gmail.com)
