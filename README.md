@@ -10,5 +10,5 @@
 - 🐍 Python
 
 ## Contact Me 📲
-- 📧 [Email](mailto:santanag1223@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/santana-gonzales-990621191/)
+- 📧 [Email](mailto:santanag1223@gmail.com)
