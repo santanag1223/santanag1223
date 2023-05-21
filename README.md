@@ -1,12 +1,12 @@
 # Hi, I'm Santana Gonzales! 👋
 
 ## About Me
-- SWE at Microsoft Azure 👨‍💻
-- TAMU Computing - Class of 2023 👍
-- [My Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf)
+- 👨‍💻 SWE at Microsoft Azure
+- 👍 Texas A&M University - Computing '23 
+- 📄 [My Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) 
 
 ## Programming Languages
-- 🖥 C, C++, C#, Assembly
+- 🖥 C, C++, C#
 - :coffee: Java, Javascript, Typescript
 - 🐍 Python
 
