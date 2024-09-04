@@ -3,7 +3,7 @@
 ## About Me
 - 👨‍💻 SWE at Microsoft Azure
 - 👍 Texas A&M University - Computing '23 
-- 📄 [My Resume](https://github.com/santanag1223/Resume/blob/main/Resume%20-%20Gonzales%2C%20Santana.pdf) 
+- 📄 [My Resume](https://github.com/santanag1223/Resume/blob/main/SantanaGonzales-Resume.docx.pdf) 
 
 ## Programming Languages
 - 🖥 C, C++, C#
