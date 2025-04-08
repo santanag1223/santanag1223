@@ -1,4 +1,4 @@
-# Hi, I'm Santana Gonzales! 👋
+# Hi, my name is Santana Gonzales! 👋
 
 ## About Me
 - 👨‍💻 SWE at Microsoft Azure
