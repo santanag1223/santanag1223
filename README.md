@@ -11,6 +11,6 @@
 - 🐍 Python
 
 ## Contact Me 📲
-- 🔗 [LinkedIn](https://www.linkedin.com/in/santana-gonzales-990621191/)
-- 📧 [Email](mailto:santanag1223@gmail.com) - `santanag1223@gmail.com`
-- 👾 Discord - `santana.g`
+- 🔗 [LinkedIn](https://www.linkedin.com/in/santana-gonzales-990621191/): `Santana Gonzales`
+- 📧 [Email](mailto:santanag1223@gmail.com): `santanag1223@gmail.com`
+- 👾 Discord: `santana.g`
